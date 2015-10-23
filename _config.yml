@@ -1,0 +1,23 @@
+name: timputnam
+favicon: null
+layout_spectrum: 0.8805644477251917
+typography_spectrum: 0.7217390742152929
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7652462236583233
+  lightness: 0.7704087074380368
+  saturation: 0.4432230740785599
+  rhythmicContrast: 0.33388902456499636
+purpose: []
