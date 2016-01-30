@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[timputnam]]></title>
+        <description><![CDATA[timputnam]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 30 Jan 2016 03:13:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Iceland]]></title>
+            <description><![CDATA[<article><h1>Iceland</h1><p>A week in Iceland, October 2015</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d278f5f55279089f61a5f2356e4e46764952a38.jpg"></article>]]></description>
+            <link>undefinediceland/index.html</link>
+            <guid isPermaLink="false">fc3234c4-a607-449f-b1a8-bfa341b257d4</guid>
+            <pubDate>Sat, 30 Jan 2016 03:13:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
