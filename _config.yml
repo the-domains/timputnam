@@ -1,23 +1,40 @@
-name: timputnam
 favicon: null
-layout_spectrum: 0.8805644477251917
-typography_spectrum: 0.7217390742152929
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-693053-1
-  facebook: null
-  twitter: null
+name: timputnam
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
-  brandColors: []
+  saturation: 0.4432230740785599
   brandStrength: 0.7652462236583233
   lightness: 0.7704087074380368
-  saturation: 0.4432230740785599
-  rhythmicContrast: 0.33388902456499636
-purpose: []
+  brandColors:
+    - '#000000'
+    - '#C5BEAB'
+    - '#271F15'
+    - '#9A8F78'
+    - '#6F634D'
+  rhythmicContrast: 0.3338890245649964
+typography_spectrum: 0.8405018
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: UA-693053-1
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
